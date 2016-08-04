@@ -1,14 +1,17 @@
-# fall
+# Fall
+
 Tower fall clone implemented in JS
 
 
 ## Installing
 
-    npm install
+```
+npm install
+```
 
 
 ## Running
 
-    ./game.sh
-
-
+```
+npm run start
+```

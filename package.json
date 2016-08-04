@@ -5,7 +5,15 @@
   "dependencies": {
     "phaser": "~2.6.1"
   },
-  "devDependencies": {},
+   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server -a localhost -p 8000",
+    "deploy": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/IuryAlves/fall.git"

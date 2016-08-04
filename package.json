@@ -1,0 +1,18 @@
+{
+  "name": "fall",
+  "version": "0.0.1",
+  "description": "A Tower Fall clone implemented in JS",
+  "dependencies": {
+    "phaser": "~2.6.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IuryAlves/fall.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IuryAlves/fall/issues"
+  }
+}
